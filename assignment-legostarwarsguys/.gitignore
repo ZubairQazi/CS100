@@ -1,0 +1,53 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+*.pc
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.vscode
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# txt files
+*.txt
+
+# Executables
+*.exe
+*.out
+*.app
+rshell
+test
+test2
+unit_test
+
+# CMake Temp Files
+CMakeCache.txt
+CMakeFiles
+cmake_install.cmake
+Makefile
+bin/
+.vscode/
+lib/
+
+# MacOS Specific
+.DS_Store
