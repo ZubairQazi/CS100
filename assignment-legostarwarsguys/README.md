@@ -3,8 +3,8 @@
 ### Quarter & Year
 Fall 2019
 ### Students
-Danial Beg (862070454), dbeg001@ucr.edu\
-Zubair Qazi (862076454), zqazi004@ucr.edu
+Danial Beg, dbeg001@ucr.edu\
+Zubair Qazi, zqazi004@ucr.edu
 
 # Introduction
 R'Shell is a command shell which will be capable of taking in multiple commands, separated by the connectors `||` , `&&`, or `;`, and executing them in order. Commands have the following format:
